@@ -8,7 +8,7 @@ Step 1: Import the lending data CSV
 
 Step 2: Create two variables X and y with the CSV data, with the binary data of loan status occupying variable y and everything in variable X
 
-![X and y](Images/X and y.jpg)
+![X and y](https://github.com/seanpatel19/Challenge-12-/blob/913f31322885b6888bbb67f7357f194a2ae2831b/Images/X%20and%20y.jpg)
 
 Step 3: Use the LinearRegression model from sklearn on the data 
 
