@@ -10,11 +10,11 @@ Step 2: Create two variables X and y with the CSV data, with the binary data of 
 
 ![X and y](Images/X and y.jpg)
 
-Step 3: Relate the search traffic to stock price patterns
+Step 3: Use the LinearRegression model from sklearn on the data 
 
-Step 4: Create a time series model with Prophet
+Step 4: Add resampling data using RandomOverSampler 
 
-Step 5 (optional): Forecast revenue by using time series models
+Step 5: Create a Report explaining the findings and what model worked the best 
 
 
 
@@ -43,26 +43,41 @@ pathlib
 Before running the application first install the following dependencies.
 See the associated Screenshot for what to Install 
 
-![Installs](Images/imports .jpg)
+![imports](Images/imports .jpg)
 
-![Installs](Images/imports 2.jpg)
+![imports 2](Images/imports 2.jpg)
 
-![Installs](Images/import 3.jpg)
+![import 3](Images/import 3.jpg)
 
-![Installs](Images/imports 3.jpg)
+![imports 3](Images/imports 3.jpg)
 
 
 ---
 
 ## Examples
 
-Please see the following images of the code and resulting graphs 
+Please see the following images of the code 
+
+The first set of data we looked at 
+
+![target balance](Images/target balance.jpg)
 
 
-![compnent plots](https://github.com/seanpatel19/Challenge-11/blob/d4ed37185393154a608bbb59121421911ee21796/Images/compnent%20plots.jpg)
+
+Results of the first Linear Regression 
+
+![results](Images/imports 3.jpg)
+
+The data after applying the RandomOverSampler
+
+![rebalanced targets ](Images/rebalanced targets.jpg)
+
+The results from that linear regression
+
+![resampled results ](Images/resampled results.jpg)
 
 
-![yhat projections](Images/yhats.jpg)
+
 ---
 
 ## Usage
