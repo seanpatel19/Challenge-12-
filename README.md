@@ -43,13 +43,13 @@ pathlib
 Before running the application first install the following dependencies.
 See the associated Screenshot for what to Install 
 
-![imports](Images/imports .jpg)
+![imports](https://github.com/seanpatel19/Challenge-12-/blob/64e5393b5c544ae0cc9c5bcd73c135e6e48ca12e/Images/imports%20.jpg)
 
-![imports 2](Images/imports 2.jpg)
+![imports 2](https://github.com/seanpatel19/Challenge-12-/blob/64e5393b5c544ae0cc9c5bcd73c135e6e48ca12e/Images/imports%202.jpg)
 
-![import 3](Images/import 3.jpg)
+![import 3](https://github.com/seanpatel19/Challenge-12-/blob/64e5393b5c544ae0cc9c5bcd73c135e6e48ca12e/Images/import%203.jpg)
 
-![imports 3](Images/imports 3.jpg)
+![imports 3](https://github.com/seanpatel19/Challenge-12-/blob/64e5393b5c544ae0cc9c5bcd73c135e6e48ca12e/Images/imports%203.jpg)
 
 
 ---
@@ -60,21 +60,21 @@ Please see the following images of the code
 
 The first set of data we looked at 
 
-![target balance](Images/target balance.jpg)
+![target balance](https://github.com/seanpatel19/Challenge-12-/blob/64e5393b5c544ae0cc9c5bcd73c135e6e48ca12e/Images/target%20balance.jpg)
 
 
 
 Results of the first Linear Regression 
 
-![results](Images/imports 3.jpg)
+![results](https://github.com/seanpatel19/Challenge-12-/blob/64e5393b5c544ae0cc9c5bcd73c135e6e48ca12e/Images/results.jpg)
 
 The data after applying the RandomOverSampler
 
-![rebalanced targets ](Images/rebalanced targets.jpg)
+![rebalanced targets ](https://github.com/seanpatel19/Challenge-12-/blob/64e5393b5c544ae0cc9c5bcd73c135e6e48ca12e/Images/rebalanced%20targets.jpg)
 
 The results from that linear regression
 
-![resampled results ](Images/resampled results.jpg)
+![resampled results ](https://github.com/seanpatel19/Challenge-12-/blob/64e5393b5c544ae0cc9c5bcd73c135e6e48ca12e/Images/resampled%20results.jpg)
 
 
 
