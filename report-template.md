@@ -2,9 +2,8 @@
 
 ## Overview of the Analysis
 
-In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
 
-The Purpose of this analysis was to use customer information to determine credit worthyness for a peer to peer lending company
+The purpose of this analysis was to use customer information to determine if a loan was healthy or unhealthy for a peer to peer lending company
 
 The data that was looked as was information about the loan and the borrower, such as the size of their loan, the interest rate of that loan, their income, debt to income ratio, how many accounts they have, and if they have any derogitory marks. There is also a data column called loan status which is a binary 0 for a healthy loan or 1 for an unhealthy loan
 
