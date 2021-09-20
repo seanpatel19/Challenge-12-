@@ -5,12 +5,19 @@
 In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
 
 The Purpose of this analysis was to use customer information to determine credit worthyness for a peer to peer lending company
+
 The data that was looked as was information about the loan and the borrower, such as the size of their loan, the interest rate of that loan, their income, debt to income ratio, how many accounts they have, and if they have any derogitory marks. There is also a data column called loan status which is a binary 0 for a healthy loan or 1 for an unhealthy loan
+
 The 0 loans numbered 75036 while the 1 numbered 2500
+
 We preformed a split of the customer data into variable X and the binary loan status into variable y 
+
 We then used test_train_split to put the data into a form where we can perform linear regression on it using sklearn
+
 After fitting the model and using the predict function we managed to get a a classification model that worked pretty well
+
 In an effort to improve this the data was oversampled as there was very little 1 data as compared to 0 data
+
 After oversampling we performed the same operations 
 
 ## Results
