@@ -4,9 +4,10 @@
 
 The purpose of this analysis was to use customer information to determine if a loan was healthy or unhealthy for a peer to peer lending company
 
-Step 1: Create 
+Step 1: Import the lending data CSV 
 
-Step 2: Mine the search traffic data for seasonality
+Step 2: Create two variables X and y with the CSV data, with the binary data of loan status occupying variable y and everything in variable X
+![X and y](Images/X and y.jpg)
 
 Step 3: Relate the search traffic to stock price patterns
 
