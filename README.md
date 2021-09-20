@@ -7,6 +7,7 @@ The purpose of this analysis was to use customer information to determine if a l
 Step 1: Import the lending data CSV 
 
 Step 2: Create two variables X and y with the CSV data, with the binary data of loan status occupying variable y and everything in variable X
+
 ![X and y](Images/X and y.jpg)
 
 Step 3: Relate the search traffic to stock price patterns
@@ -41,6 +42,7 @@ pathlib
 
 Before running the application first install the following dependencies.
 See the associated Screenshot for what to Install 
+
 ![Installs](Images/imports .jpg)
 
 ![Installs](Images/imports 2.jpg)
